@@ -3,6 +3,7 @@
 Resources:
 
 [Clojure - Getting Started](https://clojure.org/guides/getting_started)
+
 [Leiningen](https://leiningen.org/#docs)
 
 
